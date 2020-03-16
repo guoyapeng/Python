@@ -1,9 +1,3 @@
-"""
-author: arrti
-github: https://github.com/arrti
-blog:   http://www.cnblogs.com/xmwd
-""" 
-
 import copy
 import time
 from random import choice, shuffle
